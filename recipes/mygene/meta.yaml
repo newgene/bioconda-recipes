@@ -19,7 +19,7 @@ requirements:
     - pip
     - python
   run:
-    - biothings_client >=0.2.0
+    - biothings_client >=0.2.6
     - python
 
 test:
@@ -27,7 +27,7 @@ test:
     - mygene
 
 about:
-  home: https://github.com/suLab/mygene.py
+  home: https://github.com/biothings/mygene.py
   license: BSD License
   summary: 'Python Client for MyGene.Info services.'
   license_family: BSD
